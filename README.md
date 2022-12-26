@@ -1,2 +1,5 @@
-# RoadToMasteryInDS
-Here I publish the results of completing courses and tasks in data science and machine learning
+# Путь к вершинам мастерства в науке о данных
+## Курсы
+Название   |Темы | Прогресс
+-----------|:-------:|:-------------------:
+
