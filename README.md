@@ -2,4 +2,6 @@
 ## Курсы
 Название   |Темы | Прогресс | Сертификат
 -----------|-------|:-------------------:|:-------------------:
-Интерактивный тренажер по SQL   |Select, Group by, Order by, Create, Delete, Update, Foreign key, Join  | 100% |[Сертификат](https://stepik.org/cert/1377352)
+[Stepik] Марафон данных: первое знакомство с SQL и Python  |Select, Group by, Order by <br>Python, Pandas  | 60% | Не выдается
+[Stepik] Интерактивный тренажер по SQL   |Select, Group by, Order by, Create, Delete, Update, Foreign key, Join  | 96% |[Сертификат](https://stepik.org/cert/1377352)
+[Stepik] Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева |Режимы доступа, свойства, дескрипторы, магические методы классов, наследование и полиморфизм, исключения и менеджеры контекста  | 72% | Не выдается 
