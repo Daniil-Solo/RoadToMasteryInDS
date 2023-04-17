@@ -2,7 +2,7 @@
 ## Курсы
 Название   |Темы | Прогресс | Сертификат | Работы 
 -----------|-------|:-------------------:|:-------------------:|:-------------------:
-[Stepik] Марафон данных: первое знакомство с SQL и Python  |Select, Group by, Order by <br>Python, Pandas <br>AOV, ARPU, ARPPU  | 100% | Не выдается | нет
+[Stepik] Марафон данных: первое знакомство с SQL и Python  |Select, Group by, Order by <br>Python, Pandas <br>AOV, ARPU, ARPPU  | 100% | [Сертификат](https://stepik.org/cert/2033453) | нет
 [Stepik] Интерактивный тренажер по SQL   |Select, Group by, Order by, Create, Delete, Update, Foreign key, Join  | 96% |[Сертификат](https://stepik.org/cert/1377352) | нет
 [Stepik] Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева |Режимы доступа, свойства, дескрипторы, магические методы классов, наследование и полиморфизм, исключения и менеджеры контекста  | 72% | Не выдается | нет
 [MIPT] Математика для Data Science | Логика, Комбинаторика, Линейная Алгебра и Аналитическая Геометрия  | 38% | Не выдается | [Работы](https://github.com/Daniil-Solo/RoadToMasteryInDS/tree/main/%5BMIPT%5DMath_for_DS)
